@@ -1,0 +1,2 @@
+#podstawy
+print("CDV")
