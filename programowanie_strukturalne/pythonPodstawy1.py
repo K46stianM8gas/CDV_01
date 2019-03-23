@@ -1,2 +1,2 @@
 #podstawy
-print("CDV")
+print("CDV eloeloeloelo")
